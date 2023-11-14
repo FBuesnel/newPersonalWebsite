@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/newPersonalWebsite/static/css/main.69439131.css",
-    "main.js": "/newPersonalWebsite/static/js/main.42e3655f.js",
-    "static/js/787.ea9fc37a.chunk.js": "/newPersonalWebsite/static/js/787.ea9fc37a.chunk.js",
-    "static/media/SFWBookclub.jpg": "/newPersonalWebsite/static/media/SFWBookclub.c2577defc3ac90c39c99.jpg",
-    "static/media/IB-Keyword-Search.jpg": "/newPersonalWebsite/static/media/IB-Keyword-Search.a81077f80f9cbc457b68.jpg",
-    "static/media/Montserrat-Bold.ttf": "/newPersonalWebsite/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
-    "static/media/Montserrat-Light.ttf": "/newPersonalWebsite/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
-    "static/media/wordSearcher.jpg": "/newPersonalWebsite/static/media/wordSearcher.c0ba0eb71a7f623bbc42.jpg",
-    "static/media/conventlogo.png": "/newPersonalWebsite/static/media/conventlogo.09ad71d9ab8b3ad5be54.png",
-    "static/media/3DGraphing.jpg": "/newPersonalWebsite/static/media/3DGraphing.8b1a6a217bde6cec0e82.jpg",
-    "static/media/profilePicture.jpg": "/newPersonalWebsite/static/media/profilePicture.574f294cf3f662f944e6.jpg",
-    "index.html": "/newPersonalWebsite/index.html",
-    "main.69439131.css.map": "/newPersonalWebsite/static/css/main.69439131.css.map",
-    "main.42e3655f.js.map": "/newPersonalWebsite/static/js/main.42e3655f.js.map",
-    "787.ea9fc37a.chunk.js.map": "/newPersonalWebsite/static/js/787.ea9fc37a.chunk.js.map"
+    "main.css": "/static/css/main.6617e19e.css",
+    "main.js": "/static/js/main.4b01f01a.js",
+    "static/js/787.ea9fc37a.chunk.js": "/static/js/787.ea9fc37a.chunk.js",
+    "static/media/SFWBookclub.jpg": "/static/media/SFWBookclub.c2577defc3ac90c39c99.jpg",
+    "static/media/IB-Keyword-Search.jpg": "/static/media/IB-Keyword-Search.a81077f80f9cbc457b68.jpg",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
+    "static/media/wordSearcher.jpg": "/static/media/wordSearcher.c0ba0eb71a7f623bbc42.jpg",
+    "static/media/conventlogo.png": "/static/media/conventlogo.09ad71d9ab8b3ad5be54.png",
+    "static/media/3DGraphing.jpg": "/static/media/3DGraphing.8b1a6a217bde6cec0e82.jpg",
+    "static/media/profilePicture.jpg": "/static/media/profilePicture.574f294cf3f662f944e6.jpg",
+    "index.html": "/index.html",
+    "main.6617e19e.css.map": "/static/css/main.6617e19e.css.map",
+    "main.4b01f01a.js.map": "/static/js/main.4b01f01a.js.map",
+    "787.ea9fc37a.chunk.js.map": "/static/js/787.ea9fc37a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69439131.css",
-    "static/js/main.42e3655f.js"
+    "static/css/main.6617e19e.css",
+    "static/js/main.4b01f01a.js"
   ]
 }
