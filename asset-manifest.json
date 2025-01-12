@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.6617e19e.css",
-    "main.js": "/static/js/main.4b01f01a.js",
-    "static/js/787.ea9fc37a.chunk.js": "/static/js/787.ea9fc37a.chunk.js",
+    "main.css": "/static/css/main.ff5cc63a.css",
+    "main.js": "/static/js/main.e9691d3d.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/profilePicture.jpg": "/static/media/profilePicture.e5958870fc9bb746ed02.jpg",
     "static/media/SFWBookclub.jpg": "/static/media/SFWBookclub.c2577defc3ac90c39c99.jpg",
     "static/media/IB-Keyword-Search.jpg": "/static/media/IB-Keyword-Search.a81077f80f9cbc457b68.jpg",
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
@@ -10,14 +11,15 @@
     "static/media/wordSearcher.jpg": "/static/media/wordSearcher.c0ba0eb71a7f623bbc42.jpg",
     "static/media/conventlogo.png": "/static/media/conventlogo.09ad71d9ab8b3ad5be54.png",
     "static/media/3DGraphing.jpg": "/static/media/3DGraphing.8b1a6a217bde6cec0e82.jpg",
-    "static/media/profilePicture.jpg": "/static/media/profilePicture.574f294cf3f662f944e6.jpg",
+    "static/media/post1.md": "/static/media/post1.f80a3b9d8d464940929f.md",
     "index.html": "/index.html",
-    "main.6617e19e.css.map": "/static/css/main.6617e19e.css.map",
-    "main.4b01f01a.js.map": "/static/js/main.4b01f01a.js.map",
-    "787.ea9fc37a.chunk.js.map": "/static/js/787.ea9fc37a.chunk.js.map"
+    "static/media/post2.md": "/static/media/post2.5202470313e06f5b30b3.md",
+    "main.ff5cc63a.css.map": "/static/css/main.ff5cc63a.css.map",
+    "main.e9691d3d.js.map": "/static/js/main.e9691d3d.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6617e19e.css",
-    "static/js/main.4b01f01a.js"
+    "static/css/main.ff5cc63a.css",
+    "static/js/main.e9691d3d.js"
   ]
 }
